@@ -1,0 +1,12 @@
+name: datascience_env
+channels:
+  - defaults
+dependencies:
+  - scikit-learn
+  - python=3.13
+  - seaborn
+  - numpy
+  - matplotlib
+  - jupyterlab
+  - pandas
+prefix: C:\Users\jafue\anaconda3\envs\datascience_env

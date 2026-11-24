@@ -1,0 +1,11 @@
+name: datascience_env
+channels:
+  - defaults
+dependencies:
+  - pandas
+  - numpy
+  - python=3.13
+  - seaborn
+  - jupyterlab
+  - matplotlib
+  - scikit-learn
